@@ -12,7 +12,7 @@ npm install
 
 ## Code Snippets 
 
-# TODO 0
+### TODO 0
 
 ```javascript
 renderSquare(i) {
@@ -20,7 +20,7 @@ renderSquare(i) {
 }
 ```
 
-# TODO 1
+### TODO 1
 
 ```javascript
 render() {
@@ -32,13 +32,13 @@ render() {
 }
 ```
 
-# TODO 2
+### TODO 2
 
 ```javascript
 <button onClick={() => alert('click')}>
 ```
 
-# TODO 3
+### TODO 3
 
 ```javascript
 constructor(props) {
@@ -52,13 +52,13 @@ constructor(props) {
 {this.props.value} => {this.state.value}
 ```
 
-# TODO 4
+### TODO 4
 
 ```javascript
 onClick={() => this.setState({value: 'X'})}
 ```
 
-# TODO 5
+### TODO 5
 
 ```javascript
 constructor(props) {
@@ -78,7 +78,7 @@ To visualize the array:
 ]
 ```
 
-# TODO 6
+### TODO 6
 
 ```javascript
 renderSquare = () => {
@@ -86,7 +86,7 @@ renderSquare = () => {
 }
 ```
 
-# TODO 7
+### TODO 7
 
 ```javascript
 renderSquare = () => {
@@ -99,7 +99,7 @@ renderSquare = () => {
 }
 ```
 
-# TODO 8
+### TODO 8
 
 ```javascript
 <button
@@ -108,7 +108,7 @@ renderSquare = () => {
 />
 ```
 
-# TODO 9
+### TODO 9
 
 ```javascript
 handleClick = (i) => {
@@ -129,7 +129,7 @@ const Square = (props) => {
 ```
 Delete the constructor
 
-# TODO 11
+### TODO 11
 
 ```javascript
 constructor(props) {
@@ -157,7 +157,7 @@ handleClick = (i) => {
 }
 ```
 
-# TODO 12
+### TODO 12
 
 ```javascript
 calculateWinner(squares) {
