@@ -11,7 +11,7 @@ class Board extends React.Component {
     //TODO 6
     //TODO 7
     renderSquare = () => {
-
+        return <Square />
     }
 
     //TODO8
