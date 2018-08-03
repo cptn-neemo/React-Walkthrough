@@ -1,6 +1,6 @@
 ## React Walkthrough
 
-This walkthrough is based on the official React getting started guide which you can find [here](https://reactjs.org/tutorial/tutorial.html)
+This walkthrough is based on the official React getting started guide which you can find [here](https://reactjs.org/tutorial/tutorial.html).
 
 ## Setup
 
@@ -120,7 +120,7 @@ handleClick = (i) => {
 
 Go over immutability
 
-# TODO 10
+### TODO 10
 
 ```javascript
 const Square = (props) => {
