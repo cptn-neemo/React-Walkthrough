@@ -15,7 +15,7 @@ npm install
 ### TODO 0
 
 ```javascript
-renderSquare(i) {
+renderSquare = (i) => {
     return <Square value={i} />;
 }
 ```
